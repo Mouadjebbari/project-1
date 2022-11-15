@@ -1,0 +1,231 @@
+body
+{
+   
+    background-image: linear-gradient(rgba(122, 164, 157, 0.676), rgb(122, 229, 228)), url("img/mouad.jpg" );
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    bottom: 100%;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.1;
+    padding: 50px 0 20px;
+}
+h2{
+    font-size: 27px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #000;
+    margin: 25px
+}
+
+h6{
+    text-align: center;
+    font-size: 90%;
+    color: #fff;
+    margin-top: 19px;
+}
+.about-me{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;
+}
+.about-me img{
+    width: 250px;
+    height: 210px;
+    float: left;
+    margin: 30px;
+    position: relative;
+    bottom: 20px;
+}
+.about-me p{
+    font-family: 'Lato', sans-serif;
+    text-align: justify;
+    margin-top: 10px;
+    text-indent: 20px;
+    padding: 60px;
+}
+.projects1{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;
+}
+
+.projects {
+    float: left;
+    width: 25.33%;
+    background-color: #fff;
+    margin: 30px;
+    box-sizing: border-box !important;
+}
+
+.projects img {
+    width: 300px;
+    height: 240px;
+}
+.projects p{
+    margin: 5px;
+    font-family: 'lato',sans-serif;
+    color: gray;
+    font-size:12px;
+    padding:10PX;
+}
+.projects h3{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #000;
+    margin: 5px;
+    padding: 10px;
+}
+
+.Work{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;
+}
+
+.Work p{
+    font-family: 'lato',sans-serif;
+    color: gray;
+    font-size:14px;
+    padding:10PX;
+}
+.Work h4{
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #000;
+    margin: 5px;
+    padding: 10px;
+}
+.education{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;
+}
+.Language{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;box-sizing: border-box;
+}
+.edu{
+    float: left;
+    margin-left: 20px;
+}
+.educa{
+    float: left;
+    margin-left: 250px;
+}
+.edu h4,.educa h4{
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+.lang{
+  float: left;
+    margin-left: 20px;
+}
+.langu{
+  float: left;
+    margin-left: 250px;
+}
+.langua{
+  float: left;
+    margin-left: 250px;
+}
+.SocialNetwork{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;box-sizing: border-box;
+ }
+.social-5{
+    height: 250px;
+    background: #fff;
+    margin: 50px;
+    border: 5PX solid white;
+    overflow: hidden;
+}
+
+.social-5 h5{
+    margin: 50px;
+    font-family:  'lato',sans-serif;
+    color: rgb(16, 14, 14);
+    font-size:20px;
+    width: 24.33333%;
+    float:left;
+}
+.contact-6{
+    box-sizing: border-box;
+    background: #fff;
+    margin: 40px;
+    padding: 30px;
+    overflow: hidden;box-sizing: border-box;
+}
+.input input{
+    width: 98%;
+    padding-left: 20px;
+    font-size: 1.1em;
+    line-height: 2em ;
+    outline: none;
+    border: 1px solid #333;
+    background-color: rgb(231,  231 ,231);
+    border: none;
+
+
+}
+
+#eee{
+    padding: 15PX;
+    background-color: rgb(231,  231 ,231);
+    font-size: 1.1em;
+    border: none;
+    width: 1077px;
+    height: 165px;
+    border: none;
+    outline: none;
+}
+
+button{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+button:hover{
+    transition: 1s;
+    padding: 11px;
+}
+#titre{
+    margin-left: 400px;
+    color: azure;
+}
+
+.social-links img{
+
+    margin-right: 10px;
+}
